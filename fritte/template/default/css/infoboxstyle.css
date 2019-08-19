@@ -1,0 +1,45 @@
+/* Infoboxen */
+.systemmessage {
+  border-radius: 5px;
+	padding-left: 42px;
+  margin: 5px;
+}
+
+.systemmessage p {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 0px;
+}
+
+.info-light {  
+  color: #0063AC;  
+	border: 1px solid #ACE4F8;  
+  background:#CEF6F8 url(images/icons/information.png) top left no-repeat;
+  background-position: 5px 5px;
+}  
+
+.info {  
+  color: #00529B;  
+	border: 1px solid #0052FC;  
+  background:#BDE5F8 url(images/icons/information.png) top left no-repeat;
+  background-position: 5px 5px;
+}
+
+.success {  
+  color: #4F8A10;  
+	border: 1px solid #5F9B10;  
+  background:#DFF2BF url(images/icons/accept.png) top left no-repeat;
+  background-position: 5px 5px;
+}  
+.warning {  
+  color: #9F6000;  
+	border: 1px solid #5B5000;  
+  background:#FEEFB3 url(images/icons/warning.png) top left no-repeat;
+  background-position: 5px 5px;
+}  
+.error {  
+  color: #D8000C;
+  border: 1px solid #E9000C;  
+  background:#FFBABA url(images/icons/cancel.png) top left no-repeat;
+  background-position: 5px 5px;
+}

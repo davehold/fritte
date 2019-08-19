@@ -1,0 +1,5 @@
+# ignore everything in this folder, except this file
+# this way git is forced to keep this empty folder
+# in the repo
+*
+!.gitignore

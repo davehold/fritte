@@ -1,0 +1,6 @@
+
+config.ini
+fritte/content/*
+!fritte/content/example/
+fritte/template/*
+!fritte/template/default/
